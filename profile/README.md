@@ -5,4 +5,4 @@
 [Website](www.nerusaba.com)
 
 discord、マインクラフトサーバーは準備中です。
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+[Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
